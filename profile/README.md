@@ -2,7 +2,7 @@
 
 Routines is a social consistency platform built around one simple idea:
 
-**your daily actions should become visible proof of who you’re becoming.**
+**Your daily actions should become visible proof of who you’re becoming.**
 
 We believe routines are more than tasks and habits. They are repeated, intentional behaviors that shape identity over time. Whether it’s working out, reading, journaling, creating, or simply showing up for yourself, consistency deserves to be seen.
 
